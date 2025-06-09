@@ -4,9 +4,9 @@ const repoName = "banzhaf-shapley"
 
 const nextConfig: NextConfig = {
   /* config options here */
-  output: "export",
-  basePath: `/${repoName}`,
-  assetPrefix: `/${repoName}/`,
+  // output: "export",
+  // basePath: `/${repoName}`,
+  // assetPrefix: `/${repoName}/`,
 };
 
 export default nextConfig;
